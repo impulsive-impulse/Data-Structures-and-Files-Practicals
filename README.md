@@ -1,2 +1,2 @@
 # Data-Structures-and-Files-Practicals
-BE IT second year practical assignments
+BE IT Engineering second year practical assignments
